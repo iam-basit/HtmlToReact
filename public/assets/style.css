@@ -1,0 +1,43 @@
+*{
+		position:relative;
+	 }
+		body{
+			background-image:url("a.jpg");
+			background-repeat:no-repeat;
+			background-attachment:fixed;
+			background-size:100% 100%;
+		}
+		.header{
+			background-color: rgb(14,62,74);
+		}
+		.signin{
+			line-height:50px;
+		}
+		.btn-border{
+		border:1px solid white;
+		}
+		.mid-form 
+		{
+			margin-top:150px;
+			background-color: rgba(216,214,213,0.9);
+		}
+		.logo{
+		height:100px;
+		}
+		.pass
+		{
+		margin-left:175px;
+		}
+		.member
+		{
+		margin-left:160px;
+		}
+		.last
+		{
+		height:20px;
+		}
+		.footer
+		{
+		background-color: rgb(14,62,74);
+		top:148px;
+		}
